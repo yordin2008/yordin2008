@@ -96,10 +96,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ymorrisr@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymorrisr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yordin2008-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yordin2008)
 
-<br>
-
-<sub>FIN</sub>
-
 </div>
 
-<img src=blob:"https://gemini.google.com/976e8dbf-55c4-454e-9e9d-79a3bcc8d43f="" />
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yordin2008/yordin2008/main/barra.png" width="60%" alt="Barra de colores" />
+
+</div>
