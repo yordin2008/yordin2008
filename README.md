@@ -6,7 +6,10 @@
 
 <table width="100%">
   <tr>
-
+    <td width="210" align="center">
+      <img src="https://github.com/yordin2008.png" width="150" alt="Avatar de Yordin" />
+      <br><br>
+      <b>@yordin2008</b>
     </td>
     <td>
       <b>👤 Nombre:</b> Yordin Michel Morris Rolón<br><br>
@@ -48,7 +51,7 @@
     <td valign="top">
       <ul>
         <li>Programar</li>
-        <li>trabajo en equipo </li>
+        <li>Escuchar música</li>
       </ul>
     </td>
   </tr>
@@ -97,7 +100,8 @@
 
 <br>
 
-<br>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/yordin2008/yordin2008/main/barra.png" width="60%" alt="Barra de colores" />
 
 </div>
