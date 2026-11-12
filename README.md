@@ -17,41 +17,47 @@
 
 ## 🎓 Información institucional
 
-| | |
-|---|---|
-| 👤 **Nombre** | Yordin Michel Morris Rolón |
-| 🏫 **Universidad** | Universidad de la Costa (CUC) |
-| 📚 **Carrera** | Técnico en Desarrollo de Software |
-| 🗓️ **Semestre** | 2.º semestre |
-| 📧 **Correo institucional** | [ymorrisr@gmail.com](mailto:ymorrisr@gmail.com) |
-| 📍 **Ubicación** | Barranquilla, Colombia 🇨🇴 |
-
-<br>
-
-## 🖥️ `about.js`
-
-```js
-const yordin = {
-  nombre:      "Yordin Michel Morris Rolón",
-  universidad: "Universidad de la Costa (CUC)",
-  carrera:     "Técnico en Desarrollo de Software",
-  semestre:    "2.º semestre",
-  correo:      "ymorrisr@gmail.com",
-  intereses:   ["Programación", "Desarrollo web", "Linux", "Open source"],
-  gustos:      ["Música 🎧", "Tecnología 💻", "Aprender cosas nuevas"],
-  hobbies:     ["Escuchar música", "Programar"],
-  aprendiendo: ["Go", "Python", "Git"],
-  modoTrabajo: "Coding from Home 🏠",
-};
-```
+<table width="100%">
+  <tr><th align="left" width="32%">Dato</th><th align="left">Información</th></tr>
+  <tr><td>👤 <b>Nombre</b></td><td>Yordin Michel Morris Rolón</td></tr>
+  <tr><td>🏫 <b>Universidad</b></td><td>Universidad de la Costa (CUC)</td></tr>
+  <tr><td>📚 <b>Carrera</b></td><td>Técnico en Desarrollo de Software</td></tr>
+  <tr><td>🗓️ <b>Semestre</b></td><td>2.º semestre</td></tr>
+  <tr><td>📧 <b>Correo institucional</b></td><td><a href="mailto:ymorrisr@gmail.com">ymorrisr@gmail.com</a></td></tr>
+  <tr><td>📍 <b>Ubicación</b></td><td>Barranquilla, Colombia</td></tr>
+</table>
 
 <br>
 
 ## 💡 Intereses, gustos y hobbies
 
-- 🔭 **Intereses:** desarrollo de software, desarrollo web, Linux y código abierto.
-- ❤️ **Gustos:** la música (siempre con Spotify encendido), la tecnología y aprender algo nuevo cada día.
-- 🎮 **Hobbies:** programar y escuchar música.
+<div align="center">
+
+**🔭 Intereses**
+
+![Programación](https://img.shields.io/badge/Programaci%C3%B3n-8B5CF6?style=for-the-badge)
+![Desarrollo web](https://img.shields.io/badge/Desarrollo_web-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white)
+![Open source](https://img.shields.io/badge/Open_source-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+**❤️ Gustos**
+
+![Música](https://img.shields.io/badge/M%C3%BAsica-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Tecnología](https://img.shields.io/badge/Tecnolog%C3%ADa-06B6D4?style=for-the-badge)
+![Aprender cosas nuevas](https://img.shields.io/badge/Aprender_cosas_nuevas-06B6D4?style=for-the-badge)
+
+**🎮 Hobbies**
+
+![Escuchar música](https://img.shields.io/badge/Escuchar_m%C3%BAsica-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Programar](https://img.shields.io/badge/Programar-0EA5E9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**🌱 Aprendiendo ahora**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <br>
 
@@ -68,6 +74,7 @@ const yordin = {
 ## 🚀 Proyectos
 
 
+> 📌 Fija tus mejores repositorios en tu perfil (**Customize your pins**).
 
 <br>
 
@@ -75,7 +82,7 @@ const yordin = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:merlysrolon551@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:ymorrisr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/yordin2008)
 
 <sub>`while (alive) { learn(); code(); repeat(); }`</sub>
