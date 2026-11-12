@@ -1,78 +1,53 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D9488&height=230&section=header&text=Yordin&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=26&descAlignY=62&animation=fadeIn" width="100%" alt="Yordin - Desarrollador de Software" />
-
-</div>
-
-<br>
-
-## 📅 Estadísticas 🔥
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9ECF&height=200&section=header&text=DESARROLLADOR%20DE%20SOFTWARE&fontSize=44&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Desarrollador de Software" />
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/yordin2008" alt="Contribuciones" />
+# 💖 ¡Hola, soy Yordin! 💖
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FF69B4&center=true&vCenter=true&width=560&lines=Aprendiendo+y+creando+c%C3%B3digo+cada+d%C3%ADa;Coding+from+Home+%F0%9F%92%BB" alt="Frase animada" />
+
+<br>
+
+✨ *"Cada línea de código es un paso más hacia mi meta."* ✨
 
 </div>
 
-<br>
+---
 
-## 🎓 Información institucional
+### 💕 Sobre Mí
 
-<table width="100%">
-  <tr><th align="left" width="32%">Dato</th><th align="left">Información</th></tr>
-  <tr><td>👤 <b>Nombre</b></td><td>Yordin Michel Morris Rolón</td></tr>
-  <tr><td>🏫 <b>Universidad</b></td><td>Universidad de la Costa (CUC)</td></tr>
-  <tr><td>📚 <b>Carrera</b></td><td>Técnico en Desarrollo de Software</td></tr>
-  <tr><td>🗓️ <b>Semestre</b></td><td>2.º semestre</td></tr>
-  <tr><td>📧 <b>Correo institucional</b></td><td><a href="mailto:ymorrisr@gmail.com">ymorrisr@gmail.com</a></td></tr>
-  <tr><td>📍 <b>Ubicación</b></td><td>Barranquilla, Colombia</td></tr>
-</table>
+- 👤 **Nombre:** Yordin Michel Morris Rolón
+- 🎓 **Carrera:** Técnico en Desarrollo de Software
+- 🏫 **Universidad:** Universidad de la Costa (CUC)
+- 🗓️ **Semestre:** 2.º semestre
+- 📧 **Correo institucional:** [ymorrisr@gmail.com](mailto:ymorrisr@gmail.com)
+- 📍 **Ubicación:** Barranquilla, Colombia
+- 🧠 **Enfoque:** Lógica de programación y desarrollo web
+- 💅 **Style:** Código limpio, organizado y con una interfaz bonita
 
-<br>
+---
 
-## 💡 Intereses, gustos y hobbies
+### 🌸 Intereses, gustos y hobbies
 
-<div align="center">
+- 🔭 **Intereses:** desarrollo de software, desarrollo web, Linux y código abierto
+- ❤️ **Gustos:** la música, la tecnología y aprender cosas nuevas
+- 🎮 **Hobbies:** programar y escuchar música
 
-**🔭 Intereses**
+---
 
-![Programación](https://img.shields.io/badge/PROGRAMACI%C3%93N-E5E199?style=for-the-badge)
-![Desarrollo web](https://img.shields.io/badge/DESARROLLO_WEB-A7E3DC?style=for-the-badge&logo=html5&logoColor=0F766E)
-![Linux](https://img.shields.io/badge/LINUX-FBC99A?style=for-the-badge&logo=linux&logoColor=9A3412)
-![Open source](https://img.shields.io/badge/OPEN_SOURCE-A9C8F5?style=for-the-badge&logo=opensourceinitiative&logoColor=1D4ED8)
+### 🛠️ Mi Tech Stack
 
-**❤️ Gustos**
+![Go](https://img.shields.io/badge/GO-FFD1E8?style=for-the-badge&logo=go&logoColor=FF1493)
+![Python](https://img.shields.io/badge/PYTHON-FFC1E3?style=for-the-badge&logo=python&logoColor=FF1493)
+![HTML5](https://img.shields.io/badge/HTML5-FFA6D2?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF8CC6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-E0218A?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-C2187A?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-A3126A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Música](https://img.shields.io/badge/M%C3%9ASICA-B5F0C8?style=for-the-badge&logo=spotify&logoColor=15803D)
-![Tecnología](https://img.shields.io/badge/TECNOLOG%C3%8DA-D9C8F7?style=for-the-badge)
-![Aprender cosas nuevas](https://img.shields.io/badge/APRENDER_COSAS_NUEVAS-F9C6D9?style=for-the-badge)
+---
 
-**🎮 Hobbies**
-
-![Escuchar música](https://img.shields.io/badge/ESCUCHAR_M%C3%9ASICA-B5F0C8?style=for-the-badge&logo=spotify&logoColor=15803D)
-![Programar](https://img.shields.io/badge/PROGRAMAR-A9C8F5?style=for-the-badge&logo=visualstudiocode&logoColor=1D4ED8)
-
-**🌱 Aprendiendo ahora**
-
-![Go](https://img.shields.io/badge/GO-A7E3F2?style=for-the-badge&logo=go&logoColor=0E7490)
-![Python](https://img.shields.io/badge/PYTHON-FDE9A0?style=for-the-badge&logo=python&logoColor=1D4ED8)
-![Git](https://img.shields.io/badge/GIT-FBC1B0?style=for-the-badge&logo=git&logoColor=C2410C)
-
-</div>
-
-<br>
-
-## ⚡ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,python,html,git,github,linux,vscode&perline=7" />
-
-</div>
-
-<br>
-
-## 🚀 Proyectos
+### 🚀 Proyectos
 
 <table width="100%">
   <tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
@@ -80,15 +55,11 @@
   <tr><td><a href="https://github.com/yordin2008/yordin2008"><code>yordin2008</code></a></td><td>Mi perfil de GitHub (este README).</td><td><code>Markdown</code> <code>HTML</code></td></tr>
 </table>
 
-<br>
+---
 
-## 📬 Contacto
+### 📬 Contacto
 
-<div align="center">
+[![Gmail](https://img.shields.io/badge/ymorrisr@gmail.com-FFC1E3?style=for-the-badge&logo=gmail&logoColor=FF1493)](mailto:ymorrisr@gmail.com)
+[![GitHub](https://img.shields.io/badge/yordin2008-E0218A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yordin2008)
 
-[![Gmail](https://img.shields.io/badge/ymorrisr@gmail.com-D9C8F7?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:ymorrisr@gmail.com)
-[![GitHub](https://img.shields.io/badge/yordin2008-A7E3DC?style=for-the-badge&logo=github&logoColor=0F766E)](https://github.com/yordin2008)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D9488&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9ECF&height=90&section=footer" width="100%" alt="" />
