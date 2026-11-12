@@ -102,6 +102,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yordin2008/yordin2008/main/barra.png" width="60%" alt="FIN" />
+
 
 </div>
