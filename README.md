@@ -80,8 +80,8 @@
 
 <table width="100%">
   <tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
-  <tr><td><a href="https://github.com/yordin2008/practica-git"><code>practica-git</code></a></td><td>Práctica de Git y GitHub: commits, ramas y repositorios.</td><td><code>Git</code> <code>GitHub</code></td></tr>
-  <tr><td><a href="https://github.com/yordin2008/yordin2008"><code>yordin2008</code></a></td><td>Mi perfil de GitHub (este README).</td><td><code>Markdown</code> <code>HTML</code></td></tr>
+  <tr><td><a href="https://github.com/yordin2008/t"><code>practica-git</code></a></td><td>Práctica de Git y GitHub: commits, ramas y repositorios.</td><td><code>Git</code> <code>GitHub</code></td></tr>
+  <tr><td><a href="https://github.com/yordin2008/"><code>yordin2008</code></a></td><td>Mi perfil de GitHub (este README).</td><td><code>Markdown</code> <code>HTML</code></td></tr>
 </table>
 
 <br>
