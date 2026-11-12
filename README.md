@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=2000&pause=100000&color=7C3AED&center=true&vCenter=true&width=500&height=70&repeat=false&lines=Yordin" alt="Yordin" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=100000&color=0D9488&center=true&vCenter=true&width=500&height=40&repeat=false&lines=Desarrollador+de+Software" alt="Desarrollador de Software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D9488&height=230&section=header&text=Yordin&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=26&descAlignY=62&animation=fadeIn" width="100%" alt="Yordin - Desarrollador de Software" />
 
 </div>
 
@@ -12,9 +10,7 @@
 
 <div align="center">
 
-<img height="150" src="https://ghchart.rshah.org/7C3AED/yordin2008" alt="Contribuciones" />
-&nbsp;&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordin2008&layout=donut&theme=transparent&hide_border=true&title_color=7C3AED&text_color=475569" alt="Top lenguajes" />
+<img src="https://ghchart.rshah.org/7C3AED/yordin2008" alt="Contribuciones" />
 
 </div>
 
@@ -80,8 +76,8 @@
 
 <table width="100%">
   <tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
-  <tr><td><a href="https://github.com/yordin2008/t"><code>practica-git</code></a></td><td>Práctica de Git y GitHub: commits, ramas y repositorios.</td><td><code>Git</code> <code>GitHub</code></td></tr>
-  <tr><td><a href="https://github.com/yordin2008/"><code>yordin2008</code></a></td><td>Mi perfil de GitHub (este README).</td><td><code>Markdown</code> <code>HTML</code></td></tr>
+  <tr><td><a href="https://github.com/yordin2008/practica-git"><code>practica-git</code></a></td><td>Práctica de Git y GitHub: commits, ramas y repositorios.</td><td><code>Git</code> <code>GitHub</code></td></tr>
+  <tr><td><a href="https://github.com/yordin2008/yordin2008"><code>yordin2008</code></a></td><td>Mi perfil de GitHub (este README).</td><td><code>Markdown</code> <code>HTML</code></td></tr>
 </table>
 
 <br>
@@ -94,3 +90,5 @@
 [![GitHub](https://img.shields.io/badge/yordin2008-A7E3DC?style=for-the-badge&logo=github&logoColor=0F766E)](https://github.com/yordin2008)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D9488&height=100&section=footer" width="100%" alt="" />
