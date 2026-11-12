@@ -67,12 +67,7 @@ const yordin = {
 
 ## 🚀 Proyectos
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [`practica-git`](https://github.com/yordin2008/practica-git) | *Breve descripción de qué hace* | `Git` |
-| [`nombre-del-repo`](https://github.com/yordin2008) | *Breve descripción de qué hace* | `Python` |
 
-> 📌 Fija tus mejores repositorios en tu perfil (**Customize your pins**).
 
 <br>
 
@@ -80,7 +75,7 @@ const yordin = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:ymorrisr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:merlysrolon551@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/yordin2008)
 
 <sub>`while (alive) { learn(); code(); repeat(); }`</sub>
