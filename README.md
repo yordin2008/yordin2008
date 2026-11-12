@@ -38,7 +38,7 @@
         <li>Desarrollo de software</li>
         <li>Desarrollo web</li>
         <li>Linux</li>
-        <li>Código abierto</li>
+        <li></li>
       </ul>
     </td>
     <td valign="top">
