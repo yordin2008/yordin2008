@@ -6,10 +6,7 @@
 
 <table width="100%">
   <tr>
-    <td width="210" align="center">
-      <img src="https://github.com/yordin2008.png" width="150" alt="Avatar de Yordin" />
-      <br><br>
-      <b>@yordin2008</b>
+
     </td>
     <td>
       <b>👤 Nombre:</b> Yordin Michel Morris Rolón<br><br>
