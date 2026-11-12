@@ -100,8 +100,8 @@
 
 <br>
 
-<div align="center">
+<br>
 
-<img src="https://raw.githubusercontent.com/yordin2008/yordin2008/main/barra.png" width="60%" alt="Barra de colores" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=56&text=INFORMACI%C3%93N%20INSTITUCIONAL&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="INFORMACIÓN INSTITUCIONAL" />
 
 </div>
