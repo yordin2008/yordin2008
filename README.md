@@ -98,8 +98,8 @@
 
 <br>
 
-<sub>Hecho con ☕ y mucha práctica desde casa</sub>
+<sub>FIN</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,100:8B5CF6&height=40" width="100%" alt="" />
+<img src=blob:"https://gemini.google.com/976e8dbf-55c4-454e-9e9d-79a3bcc8d43f="" />
