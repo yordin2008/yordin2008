@@ -51,7 +51,7 @@
     <td valign="top">
       <ul>
         <li>Programar</li>
-        <li>Escuchar música</li>
+        <li>trabajo en equipo </li>
       </ul>
     </td>
   </tr>
