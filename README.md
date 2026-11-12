@@ -102,6 +102,5 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=56&text=INFORMACI%C3%93N%20INSTITUCIONAL&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="FINL" />
 
 </div>
