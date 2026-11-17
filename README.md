@@ -38,7 +38,6 @@
         <li>Desarrollo de software</li>
         <li>Desarrollo web</li>
         <li>Linux</li>
-        <li></li>
       </ul>
     </td>
     <td valign="top">
@@ -51,7 +50,6 @@
     <td valign="top">
       <ul>
         <li>Programar</li>
-        <li>Escuchar música</li>
       </ul>
     </td>
   </tr>
