@@ -16,7 +16,7 @@
       <b>📚 Carrera:</b> Técnico en Desarrollo de Software<br><br>
       <b>🏫 Universidad:</b> Universidad de la Costa (CUC)<br><br>
       <b>🗓️ Semestre:</b> 2.º semestre<br><br>
-      <b>📧 Correo institucional:</b> <a href="mailto:ymorrisr@gmail.com">ymorrisr@gmail.com</a><br><br>
+      <b>📧 Correo institucional:</b> <a href="mailto:ymorrisr@cuc.edu.co">ymorrisr@cuc.edu.co</a><br><br>
       <b>📍 Ubicación:</b> Barranquilla, Colombia
     </td>
   </tr>
