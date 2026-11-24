@@ -91,7 +91,7 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-ymorrisr@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymorrisr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ymorrisr@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymorrisr@cuc.edu.co)
 [![GitHub](https://img.shields.io/badge/GitHub-yordin2008-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yordin2008)
 
 </div>
